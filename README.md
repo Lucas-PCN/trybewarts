@@ -34,7 +34,7 @@
 
 <p>I got approval on the project together with colleague <a href="https://github.com/CarlosEdan" target="_blank" rel="external">Carlos Edan</a>, we completed 100% of the mandatory requirements. Thus, completing Block 6 (HTML and CSS: Forms, Flexbox and Responsive) referring to Module 1 (Fundamentals of Web Development).</p>
 
-![Minha nota no projeto](./aprovacao.png)
+![Minha nota no projeto](./nota.png)
 
 <p>Description:</p>
 
